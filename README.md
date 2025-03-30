@@ -302,18 +302,9 @@
   <li><a href="https://aulasidiomas.unicla.edu.mx">Aulas de Idiomas</a></li>
   <li><a href="https://programassep.unicla.edu.mx">Programas SEP</a></li>
   <li><a href="https://cursos.unicla.edu.mx">Cursos</a></li>
-  <li><a href="https://iclam.edu.mx">ICLAM - Instituto Universitario Contemporáneo de las Américas</a></li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🧮 Plataformas Moodle</b></summary>
-<br>
-
-<ul>
-  <li><a href="https://gdlaltozanovirtual.unicla.edu.mx">Guadalajara Altozano Virtual</a></li>
+    <li><a href="https://gdlaltozanovirtual.unicla.edu.mx">Guadalajara Altozano Virtual</a></li>
   <li><a href="https://moraltozanovirtual.unicla.edu.mx">Morelia Altozano Virtual</a></li>
+  <li><a href="https://iclam.edu.mx">ICLAM - Instituto Universitario Contemporáneo de las Américas</a></li>
 </ul>
 
 </details>
@@ -344,7 +335,6 @@
 <br>
 
 <ul>
-  <li><a href="https://congreso.unicla.edu.mx">Congresos Universitarios</a></li>
   <li><a href="https://congreso2019.unicla.edu.mx">Congreso 2019</a></li>
   <li><a href="https://congreso2021.unicla.edu.mx">Congreso 2021</a></li>
   <li><a href="https://congreso2022.unicla.edu.mx">Congreso 2022</a></li>
