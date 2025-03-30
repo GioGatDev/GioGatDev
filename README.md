@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue" alt="Full Stack Developer"/>
   <img src="https://img.shields.io/badge/Specialist-IT%20Infrastructure-orange" alt="IT Infrastructure"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green" alt="5+ Years Experience"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green" alt="5+ años de Experiencia"/>
 </div>
 
 <blockquote>
