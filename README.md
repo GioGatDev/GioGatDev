@@ -10,7 +10,7 @@
   <p>"Innovando con tecnología, transformando ideas en soluciones"</p>
 </blockquote>
 
-<h2>💻 Desarrollador Web Full Stack & Especialista en Infraestructura IT</h2>
+<h2>💻 Desarrollador Web & Especialista en Infraestructura IT</h2>
 
 <img align="right" width="300" style="border-radius: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
 
