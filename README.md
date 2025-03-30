@@ -302,9 +302,9 @@
   <li><a href="https://aulasidiomas.unicla.edu.mx">Aulas de Idiomas</a></li>
   <li><a href="https://programassep.unicla.edu.mx">Programas SEP</a></li>
   <li><a href="https://cursos.unicla.edu.mx">Cursos</a></li>
-    <li><a href="https://gdlaltozanovirtual.unicla.edu.mx">Guadalajara Altozano Virtual</a></li>
+  <li><a href="https://gdlaltozanovirtual.unicla.edu.mx">Guadalajara Altozano Virtual</a></li>
   <li><a href="https://moraltozanovirtual.unicla.edu.mx">Morelia Altozano Virtual</a></li>
-  <li><a href="https://iclam.edu.mx">ICLAM - Instituto Universitario Contemporáneo de las Américas</a></li>
+  
 </ul>
 
 </details>
@@ -359,6 +359,7 @@
   <li><a href="https://control-asistencia.unicla.edu.mx">Control de Asistencia</a></li>
   <li><a href="https://directorio.unicla.edu.mx">Directorio Institucional</a></li>
   <li><a href="https://udeporte.unicla.edu.mx">Universidad Deportiva</a></li>
+  <li><a href="https://iclam.edu.mx">ICLAM - Instituto Universitario Contemporáneo de las Américas</a></li>
 </ul>
 
 </details>
