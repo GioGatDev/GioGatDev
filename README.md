@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Developer-Full%20Stack-0e75b6?style=flat-square" alt="Full Stack Developer"/>
 <img src="https://img.shields.io/badge/Specialist-IT%20Infrastructure-orange?style=flat-square" alt="IT Infrastructure"/>
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-green?style=flat-square" alt="5+ años de Experiencia"/>
+<img src="https://img.shields.io/badge/Experience-7%2B%20Years-green?style=flat-square" alt="7+ años de Experiencia"/>
 <img src="https://img.shields.io/badge/Based%20in-Morelia%2C%20MX-6a00f4?style=flat-square" alt="Morelia, México"/>
 
 </div>
@@ -19,22 +19,25 @@
 
 <img align="right" width="280" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
 
-Profesional creativo y responsable, apasionado por la tecnología y comprometido con el aprendizaje continuo. Con más de **5 años de experiencia**, me especializo en el desarrollo de sitios y aplicaciones web con funcionalidades a medida, diseñando soluciones con interfaces intuitivas y una excelente experiencia de usuario.
+Soy Arquitecto de Soluciones Digitales con más de **7 años de experiencia** impulsando la transformación online, cuyo objetivo primordial es aumentar el rendimiento comercial del cliente. Mi valor radica en convertir desafíos complejos de negocio en plataformas web end-to-end, diseñadas estratégicamente desde el principio para resolver problemas específicos. Esto se apoya en una gestión técnica integral: garantizando la máxima disponibilidad a través de la administración avanzada de infraestructura (AWS/on-premise), y la protección de los activos críticos mediante medidas robustas de seguridad y optimización continua, además de asegurar visibilidad mediante SEO avanzado.
 
-A lo largo de mi trayectoria he optimizado el rendimiento de plataformas web, implementado mejoras **SEO** y aplicado medidas de **seguridad** robustas, incluyendo sistemas de respaldo para proteger información crítica. Mi experiencia abarca la **administración de servidores** (locales, on-premise y AWS): almacenamiento, redes, bases de datos y virtualización.
+Mi experiencia abarca la gestión integral del ciclo de vida digital: desde la optimización de back-ends (PHP, MySQL, Redis) hasta la implementación de prácticas avanzadas de SEO, y garantizando una arquitectura robusta mediante medidas rigurosas de seguridad e infraestructura. Manejo servidores de manera integral (locales, on-premise y AWS), incluyendo administración avanzada de redes, bases de datos y sistemas de virtualización para asegurar la continuidad del negocio.
 
-Actualmente amplío mi backend en **PHP** hacia **JavaScript / Node.js** y exploro la **integración de IA y agentes** en flujos de trabajo reales.
-
+Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más avanzados: estoy activamente evolucionando mi backend de **PHP a JavaScript / Node.js**, e integrando capacidades de **Inteligencia Artificial** en flujos de trabajo reales. Esto me permite diseñar soluciones no solo funcionales hoy, sino también escalables y preparadas para la automatización del mañana."
 <br clear="right"/>
 
 <!-- ===== TRABAJO ACTUAL ===== -->
 ## 🔭 En lo que trabajo actualmente
 
-- 🤖 Integración de **agentes de IA** y **Claude Code** en servidores Ubuntu/Debian vía SSH
-- 🧩 Migraciones a **CMS headless** (WordPress → Strapi) y desarrollo de **APIs REST**
-- 🎓 Implementación y administración de plataformas **LMS Moodle 4.x**
-- 🌐 Desarrollo de sitios con **CodeIgniter 4 + Tailwind CSS** y arquitecturas MVC
-- ⚙️ Infraestructura: **VPS / Proxmox**, redes **UniFi / Omada** y respaldos automatizados
+- 🎓 Diseño, implementación y administración de Ecosistemas Digitales y E-Learning en **Moodle**
+- ⚙️ Arquitectura de Sistemas y Backend.
+- 🛡️ Sistemas Integrados y Producción (Físico + Digital), conectando sistemas físicos con entornos Digitales
+- 🛜 Implementación y gestión de redes corporativas robustas
+- 🎨 Diseño e implementación de sistemas web
+- 👨🏻‍💻Administración de servicios en la Nube, principalmente en AWS.
+- 📊 Modelado y Gestión de Datos por medio del diseño de esquemas relacionales (MySQL/MariaDB) normalizados y optimizados.
+- 🖥️ Diseño de despliegues sobre VPS, servidores dedicados y servidores Locales
+- 🪎 Estrategias de automatización de respaldos y recuperación ante desastres.
 
 <!-- ===== STACK ===== -->
 ## 🧰 Stack principal
