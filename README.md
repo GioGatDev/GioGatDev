@@ -257,7 +257,7 @@ Actualmente amplío mi backend en **PHP** hacia **JavaScript / Node.js** y explo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GioGatDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GioGatDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GioGatDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
