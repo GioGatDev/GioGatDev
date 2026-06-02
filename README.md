@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <a href="#">
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GatDev&fontSize=100](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=GatDev&fontSize=100&descAlign=43&textBg=false&reversal=false)" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=GatDev&fontSize=100&descAlign=43&textBg=false&reversal=false" alt="header"/>
 </a>
 
 <div align="center">
