@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a00f4&height=180&section=header&text=Giovanni%20Sina%C3%AD%20Silva%20Barrag%C3%A1n&fontColor=ffffff&fontSize=38&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20IT%20Infrastructure%20Specialist&descSize=16&descAlignY=54" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Giovanni%20Silva&fontSize=100" alt="header"/>
 </a>
 
 <div align="center">
