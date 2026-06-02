@@ -1,59 +1,91 @@
-<h1 align="center">¡Hola! Soy Giovanni Sinaí Silva Barragán ✨</h1>
+<!-- ===== HEADER ===== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a00f4&height=180&section=header&text=Giovanni%20Sina%C3%AD%20Silva%20Barrag%C3%A1n&fontColor=ffffff&fontSize=38&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20IT%20Infrastructure%20Specialist&descSize=16&descAlignY=54" alt="header"/>
+</a>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/Specialist-IT%20Infrastructure-orange" alt="IT Infrastructure"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green" alt="5+ años de Experiencia"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Innovando+con+tecnolog%C3%ADa+%E2%9C%A8;Desarrollo+web+PHP+%2F+JavaScript+%2F+Node.js;Infraestructura+IT%2C+Cloud+y+Redes;LMS+Moodle%2C+APIs+e+integraciones;Agentes+de+IA+y+automatizaci%C3%B3n)](https://github.com/GioGatDev)
+
+<img src="https://img.shields.io/badge/Developer-Full%20Stack-0e75b6?style=flat-square" alt="Full Stack Developer"/>
+<img src="https://img.shields.io/badge/Specialist-IT%20Infrastructure-orange?style=flat-square" alt="IT Infrastructure"/>
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-green?style=flat-square" alt="5+ años de Experiencia"/>
+<img src="https://img.shields.io/badge/Based%20in-Morelia%2C%20MX-6a00f4?style=flat-square" alt="Morelia, México"/>
+
 </div>
 
-<blockquote>
-  <p>"Innovando con tecnología, transformando ideas en soluciones"</p>
-</blockquote>
+<!-- ===== SOBRE MÍ ===== -->
+## 👋 Sobre mí
 
-<h2>💻 Desarrollador Web & Especialista en Infraestructura IT</h2>
+<img align="right" width="280" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
 
-<img align="right" width="300" style="border-radius: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
+Profesional creativo y responsable, apasionado por la tecnología y comprometido con el aprendizaje continuo. Con más de **5 años de experiencia**, me especializo en el desarrollo de sitios y aplicaciones web con funcionalidades a medida, diseñando soluciones con interfaces intuitivas y una excelente experiencia de usuario.
 
-<p>
-  Soy un profesional creativo y responsable, apasionado por la tecnología y comprometido con el aprendizaje continuo. Con más de 5 años de experiencia, me he especializado en el desarrollo de sitios y aplicaciones web con funcionalidades específicas, diseñando soluciones que ofrecen interfaces intuitivas y una excelente experiencia de usuario.
-</p>
+A lo largo de mi trayectoria he optimizado el rendimiento de plataformas web, implementado mejoras **SEO** y aplicado medidas de **seguridad** robustas, incluyendo sistemas de respaldo para proteger información crítica. Mi experiencia abarca la **administración de servidores** (locales, on-premise y AWS): almacenamiento, redes, bases de datos y virtualización.
 
-<p>
-  Durante mi trayectoria profesional, he optimizado el rendimiento de plataformas web, implementado mejoras SEO y aplicado medidas de seguridad robustas, incluyendo sistemas de respaldo para proteger información crítica. Mi experiencia abarca la administración de servidores (locales, on-premise y AWS), gestionando servicios como almacenamiento, redes, bases de datos y virtualización.
-</p>
+Actualmente amplío mi backend en **PHP** hacia **JavaScript / Node.js** y exploro la **integración de IA y agentes** en flujos de trabajo reales.
 
 <br clear="right"/>
 
-<h2>💼 Habilidades Técnicas</h2>
+<!-- ===== TRABAJO ACTUAL ===== -->
+## 🔭 En lo que trabajo actualmente
+
+- 🤖 Integración de **agentes de IA** y **Claude Code** en servidores Ubuntu/Debian vía SSH
+- 🧩 Migraciones a **CMS headless** (WordPress → Strapi) y desarrollo de **APIs REST**
+- 🎓 Implementación y administración de plataformas **LMS Moodle 4.x**
+- 🌐 Desarrollo de sitios con **CodeIgniter 4 + Tailwind CSS** y arquitecturas MVC
+- ⚙️ Infraestructura: **VPS / Proxmox**, redes **UniFi / Omada** y respaldos automatizados
+
+<!-- ===== STACK ===== -->
+## 🧰 Stack principal
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ===== HABILIDADES (DETALLE) ===== -->
+## 💼 Habilidades técnicas (detalle)
 
 <details>
-<summary><b>🌐 Desarrollo Web</b></summary>
+<summary><b>🌐 Desarrollo Web & Backend</b></summary>
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+- **Lenguajes / Frameworks:** PHP, CodeIgniter 4, JavaScript, Node.js
+- **Frontend:** HTML5, CSS3, Tailwind CSS, diseño responsive y UX
+- **CMS:** WordPress (a medida), Strapi (headless)
+- **APIs:** diseño y consumo de REST APIs, integraciones de terceros
+- **Bases de datos:** MySQL, PostgreSQL, optimización de consultas y caché con Redis
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Infraestructura</b></summary>
+<summary><b>☁️ Cloud, Infraestructura & Redes</b></summary>
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-</p>
+- **Servidores:** Linux, AWS (S3, RDS, EC2), Proxmox, Windows Server
+- **Almacenamiento / NAS:** Synology, TrueNAS, OpenMediaVault
+- **Redes:** LAN/WAN, SDN, VPN, Ubiquiti UniFi, TP-Link Omada
+- **Avanzado:** VLANs, balanceo de cargas, QoS, DPI
+- **Respaldos:** estrategias de backup automatizado y recuperación ante desastres
 
 </details>
 
@@ -61,76 +93,21 @@
 <summary><b>🔍 Arquitectura Web & SEO</b></summary>
 <br>
 
-<ul>
-  <li>
-    <strong>Arquitectura de la Información</strong>
-    <ul>
-      <li>Diseño y gestión de arquitectura de información</li>
-      <li>Optimización de sitios web</li>
-      <li>SEO (Search Engine Optimization)</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Arquitectura de Navegación</strong>
-    <ul>
-      <li>Diseño de estructuras de navegación</li>
-      <li>Usabilidad y experiencia del usuario</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Optimización de Página</strong>
-    <ul>
-      <li>Manejo de cachés</li>
-      <li>Optimización de imágenes</li>
-      <li>Carga eficiente de recursos</li>
-      <li>Redis</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Estandarización para SEO</strong>
-    <ul>
-      <li>Metaetiquetas (títulos, descripciones, Open Graph)</li>
-      <li>Datos estructurados</li>
-      <li>Etiquetas ALT en imágenes</li>
-      <li>Google Site Kit</li>
-    </ul>
-  </li>
-</ul>
+- **Arquitectura de la información:** diseño, gestión y optimización de sitios
+- **Navegación:** estructuras claras, usabilidad y experiencia de usuario
+- **Rendimiento:** manejo de cachés, optimización de imágenes y carga eficiente (Redis)
+- **SEO:** metaetiquetas (Open Graph), datos estructurados, ALT en imágenes, Google Site Kit
 
 </details>
 
 <details>
-<summary><b>📊 Gestión de Datos & Formularios</b></summary>
+<summary><b>📊 Datos, Formularios & Analítica</b></summary>
 <br>
 
-<ul>
-  <li>
-    <strong>Formularios para Captación de Clientes</strong>
-    <ul>
-      <li>Desarrollo e implementación de formularios avanzados</li>
-      <li>Integración con bases de datos</li>
-      <li>Herramientas de automatización</li>
-      <li>Validaciones avanzadas</li>
-      <li>Contact Form 7</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Control de Registros</strong>
-    <ul>
-      <li>Gestión y almacenamiento seguro de datos</li>
-      <li>Filtrado y categorización de prospectos</li>
-      <li>Automatización de reportes y análisis de datos</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Monitorización de Eventos</strong>
-    <ul>
-      <li>Google Analytics</li>
-      <li>Meta Pixel</li>
-      <li>Query Monitor</li>
-    </ul>
-  </li>
-</ul>
+- **Captación de clientes:** formularios avanzados con validaciones e integración a BD (Contact Form 7)
+- **Gestión de registros:** almacenamiento seguro, filtrado y categorización de prospectos
+- **Automatización:** reportes y análisis de datos
+- **Monitorización:** Google Analytics, Meta Pixel, Query Monitor
 
 </details>
 
@@ -138,76 +115,11 @@
 <summary><b>🛒 WordPress & E-Commerce</b></summary>
 <br>
 
-<ul>
-  <li>
-    <strong>CMS WordPress</strong>
-    <ul>
-      <li>Instalación, configuración y mantenimiento</li>
-      <li>Constructores: WPBakery, Elementor, Essential Addons</li>
-      <li>WooCommerce</li>
-      <li>Pasarelas de pago: Stripe, PayPal, OpenPay, Mercado Pago, Conekta</li>
-      <li>Integración con Mailchimp, Feeds for YouTube</li>
-      <li>Popups personalizados</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Gestión de Contenidos y Eventos</strong>
-    <ul>
-      <li>Administración de archivos y medios</li>
-      <li>Sistemas de gestión de eventos</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Seguridad y Protección</strong>
-    <ul>
-      <li>Autenticación en dos pasos (2FA)</li>
-      <li>Configuración de seguridad avanzada</li>
-      <li>Redirecciones 301</li>
-    </ul>
-  </li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🖥️ Infraestructura & Redes</b></summary>
-<br>
-
-<ul>
-  <li>
-    <strong>Infraestructura de Red LAN y WAN</strong>
-    <ul>
-      <li>SDN, VPN</li>
-      <li>Ubiquiti UniFi, TP-Link Omada</li>
-      <li>VLANs, balanceo de cargas, QoS, DPI</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Administración de Servidores</strong>
-    <ul>
-      <li>Servidores Linux</li>
-      <li>AWS (Amazon S3, RDS, EC2)</li>
-      <li>Proxmox</li>
-      <li>Synology, TrueNAS, OpenMediaVault</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Gestión de Bases de Datos</strong>
-    <ul>
-      <li>MySQL, PostgreSQL</li>
-      <li>RDS (Amazon)</li>
-      <li>Optimización de consultas y rendimiento</li>
-      <li>Sistemas de respaldo automatizados</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Seguridad y Vigilancia</strong>
-    <ul>
-      <li>Cámaras IP y analógicas (Dahua, HikVision, Ubiquiti)</li>
-      <li>ONVIF</li>
-    </ul>
-  </li>
-</ul>
+- **CMS WordPress:** instalación, configuración y mantenimiento
+- **Constructores:** WPBakery, Elementor, Essential Addons
+- **WooCommerce:** Stripe, PayPal, OpenPay, Mercado Pago, Conekta
+- **Integraciones:** Mailchimp, Feeds for YouTube, popups personalizados
+- **Seguridad:** 2FA, configuración avanzada y redirecciones 301
 
 </details>
 
@@ -215,17 +127,9 @@
 <summary><b>🎬 Multimedia & Streaming</b></summary>
 <br>
 
-<ul>
-  <li>
-    <strong>Producción y Transmisión en Vivo</strong>
-    <ul>
-      <li>OBS Studio</li>
-      <li>ATEM Blackmagic</li>
-      <li>Camarás de la línea Cinema</li>
-      <li>RODECaster Pro II, e interfaces de audio, mezcadoras de audio, para integración a Streaming</li>
-    </ul>
-  </li>
-</ul>
+- **Producción en vivo:** OBS Studio, ATEM Blackmagic
+- **Cámaras de la línea Cinema** para transmisión
+- **Audio:** RODECaster Pro II, interfaces y mezcladoras de audio para integración a streaming
 
 </details>
 
@@ -233,29 +137,16 @@
 <summary><b>🧠 Inteligencia Artificial & LMS</b></summary>
 <br>
 
-<ul>
-  <li>
-    <strong>Desarrollo con IA</strong>
-    <ul>
-      <li>GitHub Copilot, Claude, DeepSeek</li>
-      <li>Integración de soluciones basadas en IA</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Plataformas LMS</strong>
-    <ul>
-      <li>Administración e instalación de Moodle</li>
-      <li>Integración con AWS</li>
-      <li>APIs y extensiones personalizadas</li>
-      <li>Optimización de recursos y almacenamiento</li>
-      <li>Capacitación de usuarios</li>
-    </ul>
-  </li>
-</ul>
+- **Desarrollo con IA:** Claude / Claude Code, GitHub Copilot, DeepSeek
+- **Agentes & automatización:** integración de soluciones basadas en IA en flujos reales
+- **LMS Moodle:** instalación, administración, migración y actualización (4.x)
+- **Integraciones LMS:** AWS, APIs y extensiones personalizadas, optimización de recursos
+- **Capacitación** de usuarios y administradores
 
 </details>
 
-<h2>🚀 Áreas de Especialización</h2>
+<!-- ===== ESPECIALIZACIÓN ===== -->
+## 🚀 Áreas de especialización
 
 <div align="center">
   <table>
@@ -272,25 +163,23 @@
   </table>
 </div>
 
-<h2>📋 Metas Actuales</h2>
+<!-- ===== METAS ===== -->
+## 📋 Metas actuales
 
-<ul>
-  <li><input type="checkbox" disabled> Ampliar conocimientos en arquitecturas cloud nativas</li>
-  <li><input type="checkbox" disabled> Desarrollar proyectos con enfoque en integración de IA y automatización</li>
-  <li><input type="checkbox" disabled> Certificarme en AWS y seguridad informática</li>
-  <li><input type="checkbox" disabled> Contribuir a proyectos open source en el ámbito de infraestructura</li>
-  <li><input type="checkbox" disabled> Crear contenido educativo sobre tecnologías web e infraestructura IT</li>
-</ul>
+- [ ] Ampliar conocimientos en arquitecturas cloud nativas
+- [ ] Desarrollar proyectos con enfoque en integración de IA, agentes y automatización
+- [ ] Certificarme en AWS y seguridad informática
+- [ ] Contribuir a proyectos open source en el ámbito de infraestructura
+- [ ] Crear contenido educativo sobre tecnologías web e infraestructura IT
 
-<h2>🛠️ Proyectos Destacados</h2>
+<!-- ===== PORTAFOLIO ===== -->
+## 🌐 Portafolio de sitios web desarrollados
 
 <div align="center">
   <a href="https://github.com/GioGatDev/GioGatDev">
     <img src="https://img.shields.io/badge/Portfolio%20Web-View%20Project-blueviolet?style=for-the-badge&logo=github" alt="Portfolio Web"/>
   </a>
 </div>
-
-<h2>🌐 Portafolio de Sitios Web Desarrollados</h2>
 
 <details>
 <summary><b>📚 Plataformas Educativas</b></summary>
@@ -304,7 +193,6 @@
   <li><a href="https://cursos.unicla.edu.mx">Cursos</a></li>
   <li><a href="https://gdlaltozanovirtual.unicla.edu.mx">Guadalajara Altozano Virtual</a></li>
   <li><a href="https://moraltozanovirtual.unicla.edu.mx">Morelia Altozano Virtual</a></li>
-  
 </ul>
 
 </details>
@@ -364,44 +252,39 @@
 
 </details>
 
-<h2>📚 Formación Continua</h2>
+<!-- ===== ESTADÍSTICAS ===== -->
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Architecture-blue?style=for-the-badge&logo=amazon-aws" alt="Cloud Architecture"/>
-  <img src="https://img.shields.io/badge/Learning-AI%20Integration-purple?style=for-the-badge&logo=tensorflow" alt="AI Integration"/>
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge&logo=shield" alt="Cybersecurity"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GioGatDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GioGatDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioGatDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
-Constantemente me actualizo en nuevas tecnologías y metodologías que mejoran mi desempeño profesional. Me interesa especialmente la integración de soluciones cloud, inteligencia artificial y automatización para resolver problemas de negocio.
-
-<h2>📩 Conectemos</h2>
+<!-- ===== CONTACTO ===== -->
+## 📩 Conectemos
 
 <div align="center">
   <a href="mailto:giovannigatfut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/giovanni-sinai-silva-barragan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/GioGatDev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<h2>📊 Estadísticas de GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioGatDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<h2>💻 Lenguajes Más Utilizados</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioGatDev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GioGatDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Count" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:0e75b6&height=120&section=footer" alt="footer"/>
