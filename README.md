@@ -5,10 +5,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Innovando+con+tecnolog%C3%ADa+%E2%9C%A8;Desarrollo+web+PHP+%2F+JavaScript+%2F+Node.js;Infraestructura+IT%2C+Cloud+y+Redes;LMS+Moodle%2C+APIs+e+integraciones;Agentes+de+IA+y+automatizaci%C3%B3n)](https://github.com/GioGatDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Integrando+tecnolog%C3%ADa+f%C3%ADsica+y+digital+%E2%9C%A8;Desarrollo+web+PHP+%2F+JavaScript+%2F+Node.js;Redes%2C+Seguridad+Electr%C3%B3nica+y+Servidores;LMS+Moodle%2C+APIs+e+integraciones;Agentes+de+IA+y+automatizaci%C3%B3n)](https://github.com/GioGatDev)
 
 <img src="https://img.shields.io/badge/Developer-Full%20Stack-0e75b6?style=flat-square" alt="Full Stack Developer"/>
-<img src="https://img.shields.io/badge/Specialist-IT%20Infrastructure-orange?style=flat-square" alt="IT Infrastructure"/>
+<img src="https://img.shields.io/badge/Specialist-Integraci%C3%B3n%20de%20Sistemas-orange?style=flat-square" alt="Systems Integrator"/>
 <img src="https://img.shields.io/badge/Experience-7%2B%20Years-green?style=flat-square" alt="7+ años de Experiencia"/>
 <img src="https://img.shields.io/badge/Based%20in-Morelia%2C%20MX-6a00f4?style=flat-square" alt="Morelia, México"/>
 
@@ -19,25 +19,26 @@
 
 <img align="right" width="280" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
 
-Soy Arquitecto de Soluciones Digitales con más de **7 años de experiencia** impulsando la transformación online, cuyo objetivo primordial es aumentar el rendimiento comercial del cliente. Mi valor radica en convertir desafíos complejos de negocio en plataformas web end-to-end, diseñadas estratégicamente desde el principio para resolver problemas específicos. Esto se apoya en una gestión técnica integral: garantizando la máxima disponibilidad a través de la administración avanzada de infraestructura (AWS/on-premise), y la protección de los activos críticos mediante medidas robustas de seguridad y optimización continua, además de asegurar visibilidad mediante SEO avanzado.
+Soy **Arquitecto de Soluciones Digitales e Integrador de Sistemas** con más de **7 años de experiencia**, operando bajo dos marcas propias — **Mituani** y **Marhoani** — ofreciendo servicios B2B a instituciones educativas y clientes corporativos en Michoacán, México.
 
-Mi experiencia abarca la gestión integral del ciclo de vida digital: desde la optimización de back-ends (PHP, MySQL, Redis) hasta la implementación de prácticas avanzadas de SEO, y garantizando una arquitectura robusta mediante medidas rigurosas de seguridad e infraestructura. Manejo servidores de manera integral (locales, on-premise y AWS), incluyendo administración avanzada de redes, bases de datos y sistemas de virtualización para asegurar la continuidad del negocio.
+Mi valor está en convertir necesidades operativas complejas en soluciones integradas que conectan lo físico con lo digital: desde plataformas LMS y desarrollo web a medida, hasta sistemas de seguridad electrónica y gestión de accesos, redes corporativas robustas e infraestructura de servidores con estrategias sólidas de respaldo. No entrego componentes aislados — diseño ecosistemas tecnológicos completos, pensados desde el inicio para resolver el problema de negocio del cliente.
 
-Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más avanzados: estoy activamente evolucionando mi backend de **PHP a JavaScript / Node.js**, e integrando capacidades de **Inteligencia Artificial** en flujos de trabajo reales. Esto me permite diseñar soluciones no solo funcionales hoy, sino también escalables y preparadas para la automatización del mañana."
+Mi experiencia abarca el ciclo de vida completo de un proyecto de infraestructura y software: desde el modelado de datos y desarrollo backend (PHP, MySQL, Laravel), hasta el despliegue sobre VPS y servidores on-premise, la administración de redes (UniFi, VLANs, FreeRADIUS/802.1X) y la implementación de sistemas de seguridad física-digital (CCTV, biométricos, control de acceso por QR).
+
+Mirando al futuro, estoy ampliando activamente mi dominio hacia **JavaScript/Node.js**, e integrando **agentes de Inteligencia Artificial** en flujos de trabajo reales de desarrollo y automatización — incluyendo el uso de Claude Code en entornos Linux (Ubuntu/Debian) vía SSH — para diseñar soluciones escalables y preparadas para la automatización del mañana.
 <br clear="right"/>
 
 <!-- ===== TRABAJO ACTUAL ===== -->
 ## 🔭 En lo que trabajo actualmente
 
-- 🎓 Diseño, implementación y administración de Ecosistemas Digitales y E-Learning en **Moodle**
-- ⚙️ Arquitectura de Sistemas y Backend.
-- 🛡️ Sistemas Integrados y Producción (Físico + Digital), conectando sistemas físicos con entornos Digitales
-- 🛜 Implementación y gestión de redes corporativas robustas
-- 🎨 Diseño e implementación de sistemas web
-- 👨🏻‍💻Administración de servicios en la Nube, principalmente en AWS.
-- 📊 Modelado y Gestión de Datos por medio del diseño de esquemas relacionales (MySQL/MariaDB) normalizados y optimizados.
-- 🖥️ Diseño de despliegues sobre VPS, servidores dedicados y servidores Locales
-- 🪎 Estrategias de automatización de respaldos y recuperación ante desastres.
+- 🎓 Diseño, implementación y administración de ecosistemas E-Learning en **Moodle** (incluyendo migraciones y actualizaciones de versión)
+- 🔐 Sistemas de **seguridad electrónica y gestión de accesos** (CCTV, biométricos, control por QR)
+- 🛜 Implementación y gestión de **redes corporativas** (UniFi, VLANs, QoS, FreeRADIUS/802.1X, VPN, Zero Trust)
+- 🖥️ Arquitectura de servidores, NAS y estrategias de **respaldo y recuperación ante desastres**
+- 🌐 Desarrollo web a medida — evolucionando de PHP/Laravel hacia **JavaScript/Node.js**
+- 🎬 Producción audiovisual y **streaming** en vivo
+- 🤖 Integración de **agentes de IA** y automatización en flujos de trabajo reales
+- 📊 Modelado y gestión de datos mediante esquemas relacionales (MySQL/MariaDB) normalizados y optimizados
 
 <!-- ===== STACK ===== -->
 ## 🧰 Stack principal
@@ -45,23 +46,24 @@ Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más a
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![UniFi](https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology%20NAS-C0C0C0?style=for-the-badge&logo=synology&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -72,57 +74,45 @@ Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más a
 <summary><b>🌐 Desarrollo Web & Backend</b></summary>
 <br>
 
-- **Lenguajes / Frameworks:** PHP, CodeIgniter 4, JavaScript, Node.js
+- **Lenguajes / Frameworks:** PHP, Laravel, CodeIgniter 4, JavaScript, Node.js
 - **Frontend:** HTML5, CSS3, Tailwind CSS, diseño responsive y UX
-- **CMS:** WordPress (a medida), Strapi (headless)
-- **APIs:** diseño y consumo de REST APIs, integraciones de terceros
-- **Bases de datos:** MySQL, PostgreSQL, optimización de consultas y caché con Redis
+- **CMS / Headless:** WordPress (a medida), Strapi
+- **APIs:** diseño y consumo de REST APIs, autenticación con Sanctum, integraciones de terceros
+- **Bases de datos:** MySQL, PostgreSQL, optimización de consultas y modelado relacional
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud, Infraestructura & Redes</b></summary>
+<summary><b>🔐 Seguridad Electrónica & Gestión de Accesos</b></summary>
 <br>
 
-- **Servidores:** Linux, AWS (S3, RDS, EC2), Proxmox, Windows Server
-- **Almacenamiento / NAS:** Synology, TrueNAS, OpenMediaVault
-- **Redes:** LAN/WAN, SDN, VPN, Ubiquiti UniFi, TP-Link Omada
-- **Avanzado:** VLANs, balanceo de cargas, QoS, DPI
+- **Videovigilancia:** diseño e instalación de sistemas CCTV
+- **Control de acceso:** biométricos, credenciales QR, plataformas de gestión centralizada
+- **Redes de acceso:** integración con FreeRADIUS y 802.1X (PEAP/MSCHAPv2) para autenticación por usuario
+- **Automatización:** bots de entrega de credenciales (Telegram), apps de registro de dispositivos (MAC-based)
+
+</details>
+
+<details>
+<summary><b>🛜 Redes & Infraestructura</b></summary>
+<br>
+
+- **Servidores:** Linux, Proxmox, Windows Server, virtualización on-premise
+- **Almacenamiento / NAS:** Synology, Docker Compose, Cloudflare Tunnels
+- **Redes:** LAN/WAN, VLANs, QoS, VPN, Zero Trust, Ubiquiti UniFi, TP-Link Omada
+- **Voz sobre IP:** integración de líneas analógicas y PBX (Grandstream) con SIP trunking
 - **Respaldos:** estrategias de backup automatizado y recuperación ante desastres
 
 </details>
 
 <details>
-<summary><b>🔍 Arquitectura Web & SEO</b></summary>
+<summary><b>🎓 LMS Moodle & E-Learning</b></summary>
 <br>
 
-- **Arquitectura de la información:** diseño, gestión y optimización de sitios
-- **Navegación:** estructuras claras, usabilidad y experiencia de usuario
-- **Rendimiento:** manejo de cachés, optimización de imágenes y carga eficiente (Redis)
-- **SEO:** metaetiquetas (Open Graph), datos estructurados, ALT en imágenes, Google Site Kit
-
-</details>
-
-<details>
-<summary><b>📊 Datos, Formularios & Analítica</b></summary>
-<br>
-
-- **Captación de clientes:** formularios avanzados con validaciones e integración a BD (Contact Form 7)
-- **Gestión de registros:** almacenamiento seguro, filtrado y categorización de prospectos
-- **Automatización:** reportes y análisis de datos
-- **Monitorización:** Google Analytics, Meta Pixel, Query Monitor
-
-</details>
-
-<details>
-<summary><b>🛒 WordPress & E-Commerce</b></summary>
-<br>
-
-- **CMS WordPress:** instalación, configuración y mantenimiento
-- **Constructores:** WPBakery, Elementor, Essential Addons
-- **WooCommerce:** Stripe, PayPal, OpenPay, Mercado Pago, Conekta
-- **Integraciones:** Mailchimp, Feeds for YouTube, popups personalizados
-- **Seguridad:** 2FA, configuración avanzada y redirecciones 301
+- **Administración:** instalación, configuración y mantenimiento de Moodle (4.x)
+- **Migraciones:** actualizaciones de versión escalonadas, restauración desde backups, despliegues Docker → cPanel
+- **Integraciones:** APIs, extensiones personalizadas, autenticación y optimización de recursos
+- **Capacitación** de usuarios finales y administradores
 
 </details>
 
@@ -137,14 +127,12 @@ Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más a
 </details>
 
 <details>
-<summary><b>🧠 Inteligencia Artificial & LMS</b></summary>
+<summary><b>🧠 Inteligencia Artificial & Automatización</b></summary>
 <br>
 
-- **Desarrollo con IA:** Claude / Claude Code, GitHub Copilot, DeepSeek
-- **Agentes & automatización:** integración de soluciones basadas en IA en flujos reales
-- **LMS Moodle:** instalación, administración, migración y actualización (4.x)
-- **Integraciones LMS:** AWS, APIs y extensiones personalizadas, optimización de recursos
-- **Capacitación** de usuarios y administradores
+- **Desarrollo asistido por IA:** Claude / Claude Code (uso vía SSH en entornos Ubuntu/Debian), GitHub Copilot
+- **Agentes & automatización:** integración de soluciones basadas en IA en flujos de trabajo reales de desarrollo
+- **Scripting:** herramientas CLI para automatización de tareas (procesamiento de imágenes, integraciones API)
 
 </details>
 
@@ -156,11 +144,11 @@ Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más a
     <tr>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/code.png" alt="Web Development"/><br>Desarrollo Web</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/server.png" alt="IT Infrastructure"/><br>Infraestructura IT</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Computing"/><br>Cloud Computing</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Networking"/><br>Redes Corporativas</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security"/><br>Seguridad Informática</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/database.png" alt="ERP Systems"/><br>Sistemas ERP</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security"/><br>Seguridad Electrónica</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="LMS"/><br>LMS Moodle</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/video-call.png" alt="Multimedia"/><br>Sistemas Multimedia</td>
     </tr>
   </table>
@@ -169,10 +157,10 @@ Mirando al futuro, mi foco se centra en ampliar mi dominio hacia entornos más a
 <!-- ===== METAS ===== -->
 ## 📋 Metas actuales
 
-- [ ] Ampliar conocimientos en arquitecturas cloud nativas
-- [ ] Desarrollar proyectos con enfoque en integración de IA, agentes y automatización
-- [ ] Certificarme en AWS y seguridad informática
-- [ ] Contribuir a proyectos open source en el ámbito de infraestructura
+- [ ] Desarrollar proyectos con enfoque en integración de agentes de IA y automatización
+- [ ] Consolidar la transición de backend PHP hacia JavaScript/Node.js
+- [ ] Expandir Mituani y Marhoani como marcas tecnológicas integradas en Michoacán
+- [ ] Contribuir a proyectos open source en infraestructura y automatización
 - [ ] Crear contenido educativo sobre tecnologías web e infraestructura IT
 
 <!-- ===== PORTAFOLIO ===== -->
