@@ -17,8 +17,6 @@
 <!-- ===== SOBRE MÍ ===== -->
 ## 👋 Sobre mí
 
-<img align="right" width="280" src="https://firebasestorage.googleapis.com/v0/b/marhoani-ed826.appspot.com/o/Fotos_perfil%2FFoto_de_perfil.jpeg?alt=media&token=8ac05ee1-23ab-40c4-a741-192208fb035c" alt="Giovanni Sinaí Silva Barragán"/>
-
 Soy **Arquitecto de Soluciones Digitales e Integrador de Sistemas** con más de **7 años de experiencia**, operando bajo dos marcas propias ofreciendo servicios B2B a instituciones educativas y clientes corporativos en Michoacán, México.
 
 Mi valor está en convertir necesidades operativas complejas en soluciones integradas que conectan lo físico con lo digital: desde plataformas LMS y desarrollo web a medida, hasta sistemas de seguridad electrónica y gestión de accesos, redes corporativas robustas e infraestructura de servidores con estrategias sólidas de respaldo. No entrego componentes aislados — diseño ecosistemas tecnológicos completos, pensados desde el inicio para resolver el problema de negocio del cliente.
